@@ -3,7 +3,7 @@ Study notes for the Professional Data Engineer Certification
 
 ## Official-Study-Guide-Notes
 This folder contains a summary of the notes I made while reading the [Official Google Cloud Certified Professional Data Engineer Study Guide](https://www.amazon.co.uk/Official-Google-Certified-Professional-Engineer/dp/1119618436). Google Cloud products are highlighted in green to make them stand out when reading.
-Note - these notes are not a subsitute for reading the book, they were used by my to provide a summary of the book to add in my revision
+Note - these notes are not a subsitute for reading the book, they were used by me to provide a summary of the book to aid in my revision.
 
 ## Topics not covered by the Official Study Guide that were in the exam
 The following broad topics below were on the exam that were not covered in the book. I'd highly recommend brushing up on these in-case they come up for you!
